@@ -1,4 +1,4 @@
-# Svelte ToDo App
+# Todo App
 
 This is a Project to display SvelteJS - a lightweight JavaScript compiler.
 
