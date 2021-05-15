@@ -2,8 +2,10 @@ import App from './App.svelte';
 
 const app = new App({
 	target: document.body,
-	props: {
-		name: 'world'
+		props: {
+		// assuming App.svelte contains something like
+		// `export let answer`:
+		answer: 42
 	}
 });
 
